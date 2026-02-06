@@ -24,15 +24,17 @@ This system is a **production-ready prototype** of an AI-enabled platform that o
 
 *Real-time monitoring dashboard showing device status, schedule execution, energy usage, and system metrics. The dashboard includes 18+ features including metrics overview, device monitoring, ML performance tracking, system health, energy forecasting, trading market view, battery health analytics, peak demand management, load balancing, and more.*
 
+### Analytics & Reports
+![Analytics Dashboard](./screenshots/dashboard-analytics.png)
+
+*Advanced analytics view showing historical trends, energy forecasting, battery health distribution, peak demand management, load balancing across zones, and geographic distribution map of UK device locations.*
+
+
 ### Dashboard Features
 ![Energy Grid Dashboard](./screenshots/dashboard-overview.png)
 
 *Comprehensive feature set including alerts panel, ML model performance metrics, system health monitoring, energy forecast predictions, trading market view, battery health analytics, peak demand management, load balancing visualization, and cost metrics.*
 
-### Analytics & Reports
-![Analytics Dashboard](./screenshots/dashboard-analytics.png)
-
-*Advanced analytics view showing historical trends, energy forecasting, battery health distribution, peak demand management, load balancing across zones, and geographic distribution map of UK device locations.*
 
 ## Architecture Overview
 
