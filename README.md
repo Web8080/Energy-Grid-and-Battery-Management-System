@@ -2,7 +2,9 @@
 
 ## Purpose and Product Context
 
-This system is a production-grade AI-enabled platform that optimizes energy distribution across a regional smart grid by integrating and managing thousands of Raspberry Pi-based smart batteries. The platform enables these batteries to participate in energy trading markets by following optimized charge/discharge schedules, while maintaining real-time observability, fault tolerance, and actionable analytics.
+This system is a **production-ready prototype** of an AI-enabled platform that optimizes energy distribution across a regional smart grid by integrating and managing thousands of Raspberry Pi-based smart batteries. The platform enables these batteries to participate in energy trading markets by following optimized charge/discharge schedules, while maintaining real-time observability, fault tolerance, and actionable analytics.
+
+**Project Status**: This is a fully functional prototype demonstrating production-grade architecture, security practices, and scalability patterns. The system is ready for pilot deployment and can be extended to production use with additional infrastructure scaling and compliance certifications.
 
 **Primary Use Case**: Grid operators and energy traders need to remotely control and optimize thousands of distributed battery systems to stabilize the grid, participate in energy markets, and maximize revenue while ensuring reliability and compliance.
 
@@ -14,6 +16,23 @@ This system is a production-grade AI-enabled platform that optimizes energy dist
 - Real-time observability and analytics for operational decision-making
 - Automated CI/CD and model deployment for rapid iteration
 - Production-grade reliability (>99.9% uptime) and fault tolerance
+
+## Screenshots
+
+### Dashboard Overview
+![Energy Grid Dashboard](./screenshots/dashboard-overview.png)
+
+*Real-time monitoring dashboard showing device status, schedule execution, energy usage, and system metrics. The dashboard includes 18+ features including metrics overview, device monitoring, ML performance tracking, system health, energy forecasting, trading market view, battery health analytics, peak demand management, load balancing, and more.*
+
+### Dashboard Features
+![Dashboard Features](./screenshots/dashboard-features.png)
+
+*Comprehensive feature set including alerts panel, ML model performance metrics, system health monitoring, energy forecast predictions, trading market view, battery health analytics, peak demand management, load balancing visualization, and cost metrics.*
+
+### Analytics & Reports
+![Analytics Dashboard](./screenshots/dashboard-analytics.png)
+
+*Advanced analytics view showing historical trends, energy forecasting, battery health distribution, peak demand management, load balancing across zones, and geographic distribution map of UK device locations.*
 
 ## Architecture Overview
 
